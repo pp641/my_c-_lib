@@ -1,1 +1,1 @@
-# my_cplusplus_lib
+my c++ library contains solved problems on various programming platforms
